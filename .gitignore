@@ -1,0 +1,33 @@
+# Python & Jupyter Bytecode / Checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+comp/
+
+# Large Model Weights (Downloaded via Google Drive / Ollama)
+*.gguf
+BackEnd/models/qwen-sop-model_gguf/*.gguf
+
+# Word Documents & Temp Office Files
+*.docx
+~$*
+
+# Environment Variables & Local Secrets
+.env
+.env.local
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
