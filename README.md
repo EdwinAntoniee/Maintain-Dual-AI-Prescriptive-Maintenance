@@ -11,8 +11,12 @@
 
 ---
 ⏳ **COMPFEST 18 Artificial Intelligence Competition (AIC) — Submission Under Review**  
-Developed by **Team STRIVE**
+Developed by **Team Prompt & Pray**
 ---
+
+> [!NOTE]
+> **Personal Documentation Showcase**  
+> This repository serves as a dedicated personal documentation showcase highlighting Edwin Antonie's specific engineering contributions to the **Maintain** platform. For the original collaborative team repository containing full multi-author commit histories across all development phases, please visit [**`EdwinAntoniee/Maintain_PromptAndPray`**](https://github.com/EdwinAntoniee/Maintain_PromptAndPray).
 
 ## Project Overview
 **Maintain** is an industrial-grade Prescriptive Maintenance platform engineered to eliminate costly unplanned machine downtime in modern manufacturing environments. Developed for the COMPFEST 18 Artificial Intelligence Competition (AIC), the system operates on a cutting-edge **Dual-AI Architecture** that fuses tabular Predictive Machine Learning with local Generative AI:
@@ -49,7 +53,7 @@ Developed by **Team STRIVE**
 - **Preprocessing Pipeline Architecture**
   - Designed and verified leak-free Scikit-Learn transformation pipelines (`ColumnTransformer`, `StandardScaler`, `OneHotEncoder`), ensuring consistent feature alignment between training, validation, and live inference.
 - **Cross-Functional Team Collaboration**
-  - Actively coordinated with Team STRIVE teammates to integrate the data preprocessing foundation into the larger full-scale system architecture, connecting predictive ML models, the QLoRA generative SOP engine, and the FastAPI application layer.
+  - Actively coordinated with Team Prompt & Pray teammates to integrate the data preprocessing foundation into the larger full-scale system architecture, connecting predictive ML models, the QLoRA generative SOP engine, and the FastAPI application layer.
 
 ## Architecture
 The system employs a Three-Stage Operational Triage powered by a Dual-AI engine:
