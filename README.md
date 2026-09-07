@@ -104,7 +104,7 @@ flowchart TD
 
 ## Folder Structure
 ```
-Maintain/
+Maintain-Dual-AI-Prescriptive-Maintenance/
 ├── BackEnd/                      # FastAPI backend application
 │   ├── api/                      # REST route definitions and Pydantic schemas
 │   ├── core/                     # ML inference engine and LLM Ollama service
@@ -153,8 +153,8 @@ Maintain/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EdwinAntoniee/Maintain.git
-   cd Maintain
+   git clone https://github.com/EdwinAntoniee/Maintain-Dual-AI-Prescriptive-Maintenance.git
+   cd Maintain-Dual-AI-Prescriptive-Maintenance
    ```
 
 2. Create and activate a virtual environment:
